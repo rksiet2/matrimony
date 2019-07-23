@@ -6,7 +6,6 @@ public class FavouriteService {
 
 	public static void addfavourite(Favourite favorite) {
 		// TODO Auto-generated method stub
-		
 	}
 
 }
